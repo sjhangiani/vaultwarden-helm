@@ -1,0 +1,4 @@
+# exclude packages
+.deploy
+# exclude custom values files
+**/values-*.yaml
